@@ -13,7 +13,7 @@ body{
   padding-top: 7vh;
 }
 
-/* ─────────────── NAVBAR (REPLACE THIS ONE) ─────────────── */
+
 nav{
   position: fixed;
   top: 0;
@@ -96,8 +96,8 @@ nav ul li a:hover{
 
 
 .right img{
-    width: 280px;
-    height: 280px;
+    width: 18vw;
+    height: 40vh;
     object-fit: cover;
     border-radius: 50%;
     border: 5px solid rgba(86, 84, 84, 0.6);
